@@ -1,0 +1,38 @@
+[33mcommit 2e391bd2537ff95014f75caf01f0a7c668ff201d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: jian1299 <894504231@qq.com>
+Date:   Thu Oct 26 09:59:09 2017 +0800
+
+    hah
+
+ 55.txt | 4 [31m----[m
+ 1 file changed, 4 deletions(-)
+
+[33mcommit a9cae38215424e0aa96dffdd71a6bed0948e933a[m
+Author: jian1299 <894504231@qq.com>
+Date:   Thu Oct 26 09:52:25 2017 +0800
+
+    my test if precious
+
+ Wahaha.txt | 6 [32m+++++[m[31m-[m
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+[33mcommit f0bac784b7dabd3c68f3f2422fe1bc98ebde1648[m
+Author: jian1299 <894504231@qq.com>
+Date:   Thu Oct 26 09:50:45 2017 +0800
+
+    my first text
+
+ 55.txt                    | 4 [32m++++[m
+ README.md                 | 2 [32m++[m
+ Wahaha.txt                | 1 [32m+[m
+ hahahhhhhhhhhhhhhhhhhhhhh | 2 [32m++[m
+ 4 files changed, 9 insertions(+)
+
+[33mcommit 0bcc8ac5151e21404c0bd95ef7660350bd5a279a[m
+Author: jian1299 <894504231@qq.com>
+Date:   Wed Oct 25 17:14:16 2017 +0800
+
+    Initial commit
+
+ README.md | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
